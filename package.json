@@ -15,5 +15,10 @@
     "node"
   ],
   "author": "Fatma Tarlaci",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^1.1.2",
+    "prompt": "^1.0.0"
+  },
+  "devDependencies": {}
 }

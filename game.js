@@ -1,1 +1,3 @@
-exports.wordBank = ['a', 'b'];
+exports.Game = {
+	wordBank: ["book", "javascript", "python" ] 
+};
