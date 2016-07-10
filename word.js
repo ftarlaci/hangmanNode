@@ -1,6 +1,7 @@
 //word.js should contain all of the methods which will check the letters guessed versus the random word selected.
 var Letter = require('./letter.js');
-var main = require('./main.js');
+
+
 var Word = function(word){
 	this.word = word;
 	this.lettersArray = [];

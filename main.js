@@ -9,6 +9,7 @@ var Word = require('./word.js');
 prompt.start();
 
 game = {
+	wordBank: [],
 	wordsMatched: 0,
 	guessesRemained: 10, 
 	currentWord: null, 
